@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    // Core Development
+    "ms-vscode.vscode-typescript-next",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    
+    // React & Next.js
+    "ms-vscode.vscode-react-native",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    
+    // Debugging
+    "ms-edgedevtools.vscode-edge-devtools",
+    "msjsdiag.debugger-for-chrome",
+    
+    // Git
+    "eamodio.gitlens",
+    
+    // Productivity
+    "usernamehw.errorlens",
+    "wix.vscode-import-cost",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "christian-kohler.path-intellisense",
+    
+    // Themes (Optional)
+    "enkia.tokyo-night",
+    "dracula-theme.theme-dracula",
+    "GitHub.github-vscode-theme"
+  ]
+}
